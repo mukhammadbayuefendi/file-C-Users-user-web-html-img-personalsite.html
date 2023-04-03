@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Nami Personal Site</title>
+    </head>
+    <body>
+        <img src="file:///C:/Users/user/web/images/nami.jpg" alt="nami bounty">
+        <h1>its Nami</h1>
+        <p><em>The Pirates</em></p>
+        <p>$66.000.000 Price Head 💛 of The <a href="https://www.youtube.com/shorts/rUrkYqd-UPM">Mugiwara team</p></a>
+    </body>
+        <hr>
+        <h3>Pirates and Navigator</h3>
+        <ul>
+            <li>Former pirate wading through the sharks with stealth skills</li>
+            <li>The decision maker or navigator of the mugiwara crew</li>
+        </ul>
+        <h3> <a href="file:///C:/Users/user/web/images/hoby.html">Hobies </h3></a>
+        <ol>
+            <li>Recruit a new crew</li>
+            <li>Draw a map</li>
+            <li>Sharpen <a href="file:///C:/Users/user/Downloads/download%20(7).jpg">sticks</li></a>
+        </ol>
+        <h4> <a href="file:///C:/Users/user/web/images/amv.html">AMV</h4></a> <h4> <a href="file:///C:/Users/user/web/images/hoby.html">HOBY</h4></a>
+        <h4> <a href="file:///C:/Users/user/web/html/img/personalsite.html">NAMI</h4></a>
+    </body>
+</html>
